@@ -17,6 +17,17 @@ Terminal-based hardware security audit tool. Plug in a device, run `h4rd scan`, 
 
 ---
 
+## Device Documentation
+
+| Device | Checks | Documentation |
+|--------|--------|---------------|
+| Ledger Nano S/X/S+ | 36 | [LEDGER.md](docs/LEDGER.md) |
+| Trezor One / Model T | 38 | [TREZOR.md](docs/TREZOR.md) |
+| Generic USB | 14 | [USB.md](docs/USB.md) |
+| Android (ADB) | 27 | [ANDROID.md](docs/ANDROID.md) |
+
+---
+
 ## Install
 
 ```bash

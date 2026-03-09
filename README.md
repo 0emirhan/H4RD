@@ -33,6 +33,7 @@ Terminal-based hardware security audit tool. Plug in a device, run `h4rd scan`, 
 | Document | Description |
 |----------|-------------|
 | [EXPLOITS.md](docs/EXPLOITS.md) | All 14 offensive exploit modules |
+| [ROADMAP.md](docs/ROADMAP.md) | Future modules: locked device extraction, MTK/EDL dump, Knox/Titan audit |
 | [INSTALL.md](INSTALL.md) | Full installation guide |
 | [CHANGELOG.md](CHANGELOG.md) | Version history |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution guidelines |

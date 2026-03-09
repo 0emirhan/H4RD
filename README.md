@@ -17,7 +17,9 @@ Terminal-based hardware security audit tool. Plug in a device, run `h4rd scan`, 
 
 ---
 
-## Device Documentation
+## Documentation
+
+### Device Modules
 
 | Device | Checks | Documentation |
 |--------|--------|---------------|
@@ -25,6 +27,18 @@ Terminal-based hardware security audit tool. Plug in a device, run `h4rd scan`, 
 | Trezor One / Model T | 38 | [TREZOR.md](docs/TREZOR.md) |
 | Generic USB | 14 | [USB.md](docs/USB.md) |
 | Android (ADB) | 27 | [ANDROID.md](docs/ANDROID.md) |
+
+### Other
+
+| Document | Description |
+|----------|-------------|
+| [EXPLOITS.md](docs/EXPLOITS.md) | All 14 offensive exploit modules |
+| [INSTALL.md](INSTALL.md) | Full installation guide |
+| [CHANGELOG.md](CHANGELOG.md) | Version history |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution guidelines |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Code of conduct |
+| [SECURITY.md](SECURITY.md) | Security policy |
+| [LICENSE](LICENSE) | MIT License |
 
 ---
 
